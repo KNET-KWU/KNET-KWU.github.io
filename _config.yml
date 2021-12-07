@@ -3,16 +3,15 @@ baseurl: "/"
 url: "https://KNET-KWU.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+title: K-NET KWU                                    # site's title
+description: "K-NET 동아리 블로그입니다"      # used by search engines
+avatar: assets/img/KNET-bold.png                         # Empty for no avatar in navbar
+favicon: assets/favicon.ico                               # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: 광운대학교 동아리 K-NET 입니다!  # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: "서울 노원구 광운로 20 광운대학교복지관 512호"
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
