@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Gallery
-subtitle: From the pexels folder
+subtitle: K-NET의 추억들
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Page]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to create automatically a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
-
+나중에 동아리 활동 할 때 찍은 사진 여기다 저장하기
+`assets/img/pexels` 폴더에 이미지 넣은거 여기로 업로드 됨
 
 {% include gallery.html gallery_path=page.gallery_path %}
