@@ -2,6 +2,10 @@
 
 [knet-kwu.github.io](https://knet-kwu.github.io/)
 
+PR 하기 전에 랜더링이 잘 되는지 확인하자
+
+> bundle exec jekyll serve
+
 ## 글 작성
 
 `/_posts`에 마크다운 형식으로 작성
