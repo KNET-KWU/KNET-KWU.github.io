@@ -1,0 +1,46 @@
+- color: d73a4a
+  description: Something isn't working
+  name: 🐞 Bug
+- color: fc3232
+  description: Something to ask
+  name: ❓ Question
+- color: fafafa
+  description: Issues that need ideas, opinions
+  name: 💬 Need Opinions
+- color: ff0000
+  description: Spam
+  name: 🚨 Spam
+
+# README.md, YML, config, image files
+- color: eb4646
+  description: about README.md
+  name: 📕 README.md
+- color: 21e5ff
+  description: 진행중인 것에 대한 라벨
+  name: 🌊 진행중
+- color: 16fa31
+  description: 사진이 필요해
+  name: 🖼️ 사진 필요
+- color: 16fa31
+  description: 사진에 문제 있음
+  name: 🖼️ 사진 문제 있음
+- color: fff821
+  description: about config files
+  name: 🛠️ 수정할 내용
+
+# Priority
+- color: ff0000
+  description: Priority Level 4
+  name: ❤️ 급하다!!!
+
+- color: ff8800
+  description: Priority Level 3
+  name: 🧡 진짜 빨리하자
+
+- color: 00ff11
+  description: Priority Level 2
+  name: 💚 빨리하자
+
+- color: 00d5ff
+  description: Priority Level 1
+  name: 💙 하자
