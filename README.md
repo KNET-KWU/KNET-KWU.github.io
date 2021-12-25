@@ -33,6 +33,28 @@ tags: [sample, markdown, html] # 태그 만든것 다는 것
 
 예를 들어, 2022년 1차 컨퍼런스 폴더에 사진 모두 넣기 X
 
+사진은 assets/img  
+
+1. 사진 여러개 격자 배열로 넣는 경우, aligner.html 사용
+
+이미지 파일 경로 접두사 'assets/img' 경로가 접두사 붙어짐
+
+사용 예시)
+
+```/path/to/image.png```
+
+```{% include aligner.html images="posts/path/to/image1.png ,posts/path/to/image2.png" column=2 row=1 %}```
+
+2. 사진 하나 + 설명 추가하는 경우, image.html 사용
+
+개인적으로 만든 html 파트입니다.
+
+사용 예시)
+
+```/assets/img/path/to/image.png```
+
+```{% include image.html src="/assets/img/posts/about_minecraft/servers.png" caption="이미지 하단에 첨부할 내용" %}```
+
 ### 갤러리에 추가하는 경우
 
 갤러리에 생성되는 HTML 요소는 자동으로 랜더링 되는 형식으로 `/assets/img/pexels`에 넣으면 된다.
