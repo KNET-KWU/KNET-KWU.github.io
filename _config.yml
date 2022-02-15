@@ -5,12 +5,12 @@ url: "https://KNET-KWU.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: K-NET KWU                                    # site's title
 description: "K-NET 동아리 블로그입니다"      # used by search engines
-avatar: assets/img/KNET-bold.png                         # Empty for no avatar in navbar
+avatar: assets/k-net-1to1.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                               # Icon displayed in the tab
 
 # Header and footer text
 header_text: 광운대학교 동아리 K-NET 입니다!  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_feature_image: assets/KNET_1.png
 footer_text: "서울 노원구 광운로 20 광운대학교복지관 512호"
 
 # Blog
