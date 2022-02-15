@@ -17,21 +17,21 @@
   }
 
   /* --- Responsive --- */
-  @media screen and (min-width: $break) {
-    background-size: 120% auto;
-  }
+  // @media screen and (min-width: $break) {
+  //   background-size: 120% auto;
+  // }
 
-  @media screen and (max-width: $break) {
-    background-size: 200% auto;
-  }
+  // @media screen and (max-width: $break) {
+  //   background-size: 200% auto;
+  // }
 
-  @media screen and (max-width: $sm-break) {
-    background-size: 250% auto;
-  }
+  // @media screen and (max-width: $sm-break) {
+  //   background-size: 250% auto;
+  // }
 
-  @media screen and (max-width: $x-sm-break) {
-    background-size: 300% auto;
-  }
+  // @media screen and (max-width: $x-sm-break) {
+  //   background-size: 300% auto;
+  // }
 
   p:last-child {
     margin-bottom: 0;
